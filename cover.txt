@@ -1,0 +1,20 @@
+Technical Skills:
+Professional LAMP Programmer,
+Beginner in Artificial Intelligence [Machine Learning].
+✓ Language: PHP, PHP 5+ (Object-Oriented Programming), (Shell Programming under UNIX), Python, Java
+✓ MVC Framework: Laravel, Brisk Coder PHP, Django, Flask
+✓ Mark-up Languages: HTML5, XML, JSON
+✓ Scripting Languages: JavaScript, jQuery, Vue.js, jquery-mobile framework.
+✓ Mark-up Scripting Languages: CSS3, LESS, SASS
+✓ CMS: WordPress
+✓ Database: MySQL, PgSQL, Oracle 9i
+✓ Mobile: Hybrid Mobile application development in iOS & Android
+✓ Other Tools & Technologies: Restful API's, SOAP API, Web Services with Ajax, Bootstrap, Web API's for Google/Facebook/ Twitter, Intel XDK, Cordova, Git, Guvnor- Drools
+✓ OS: MS-DOS, Windows, Linux, Apache Server Administration
+
+With over 6 years of experience, I know that it takes a great deal of creativity to come up with design/development and I am a valued member of any team.
+Happy to sit down and discuss in order to offer a more in-depth view of my skills.
+
+Always open to questions; available Online for any discussion and Queries.
+
+Skype: mahfuzt786 
